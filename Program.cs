@@ -13,7 +13,7 @@ namespace PwcInterview
             {
                 do
                 {
-                    Console.WriteLine("What is your city?");
+                    Console.WriteLine("What is your city2?");
                     var cityName = Console.ReadLine();
                     var container = StartUp.ConfigurationService();
                     var cityService = container.GetRequiredService<ICityCordinateService>();
