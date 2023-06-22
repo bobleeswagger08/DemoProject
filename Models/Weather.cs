@@ -4,6 +4,7 @@ using System;
 namespace PwcInterview.Models;
 public class WeatherInformation
 {
+    //weather is bad
     public float latitude { get; set; }
     public float longitude { get; set; }
     public decimal generationtime_ms { get; set; }
