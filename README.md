@@ -1,4 +1,4 @@
-# PwcInterview- Nishant Kr Prasad (nishantpd08@gmail.com)
+# DemoProject- Nishant Kr Prasad (nishantpd08@gmail.com)
 It is small console project for pwc technical evaluation,
 ##Please configure your system with git and clone this repository from github run below commands in the terminal
 ### Installing
