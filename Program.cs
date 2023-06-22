@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using PwcInterview.Services;
-namespace PwcInterview
+using DemoProject.Services;
+namespace DemoProject
 {
 
     class Program

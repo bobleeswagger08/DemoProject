@@ -1,5 +1,5 @@
 
-namespace PwcInterview.Models;
+namespace DemoProject.Models;
 public class CityCordinates
 {
     public string? city { get; set; } 

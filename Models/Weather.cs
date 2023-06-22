@@ -1,7 +1,7 @@
 
 using System;
 
-namespace PwcInterview.Models;
+namespace DemoProject.Models;
 public class WeatherInformation
 {
     public float latitude { get; set; }

@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
-using PwcInterview.Models;
-namespace PwcInterview.Services;
+using DemoProject.Models;
+namespace DemoProject.Services;
 
 public interface IWeatherService{
      Task<WeatherInformation> GetWeather(float lat, float lng);

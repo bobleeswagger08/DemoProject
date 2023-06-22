@@ -1,9 +1,9 @@
-using PwcInterview.Services;
+using DemoProject.Services;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
 using System.Text;
-namespace PwcInterview;
+namespace DemoProject;
 public class StartUp
 {
  public static IServiceProvider ConfigurationService(){

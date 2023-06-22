@@ -1,7 +1,7 @@
 using System.Text.Json;
 using System.IO;
-using PwcInterview.Models;
-namespace PwcInterview.Services;
+using DemoProject.Models;
+namespace DemoProject.Services;
 
 public interface ICityCordinateService{
      Task<CityCordinates> GetCityDetails(string cityName);
